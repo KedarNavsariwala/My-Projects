@@ -1,6 +1,12 @@
-import subprocess
+import os
 import requests
+import json
+import subprocess
+from typing import List
+from dotenv import load_dotenv
 from bs4 import BeautifulSoup
+from IPython.display import Markdown, display, update_display
+from openai import OpenAI
 
 def get_cleaned_webpage_text():
     url = input("Enter the webpage URL: ")
@@ -43,8 +49,6 @@ def summarize(x):
 
 # Example usage:
 # summarize()
-
-cleantext = get_cleaned_webpage_text()
-
-summarize(cleantext)
+# cleantext = get_cleaned_webpage_text()
+# summarize(cleantext)
 
