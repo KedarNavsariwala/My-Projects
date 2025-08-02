@@ -1,0 +1,5 @@
+transformers>=4.34.0
+torch>=2.0.0
+pypdf2>=3.0.0
+bitsandbytes>=0.41.0  # For 4-bit quantization
+accelerate>=0.21.0

@@ -1,0 +1,852 @@
+Examples of Funded Grants in Implementation Science  
+ 
+Overview  
+The National Cancer Institute (NCI) frequently receives requests for examples of funded grant applications. Several investigators and their organizations agreed to let Implementation Science 
+(IS) post excerpts of their dissemination and implementation (D&I) grant applications online. 
+ About We are grateful to the investigators and their institutions for allowing us to provide this important resource to the community. To maintain confidentiality, we have redacted some information 
+from these documents (e.g., budgets, social security numbers, home addresses, introduction to 
+revised application), where applicable. In addition, we only include a copy of SF 424 R&R Face Page, Project Summary/Abstract (Description), Project Narrative, Specific Aims, and Research Strategy; we do not include other SF 424 (R&R) forms or requisite information found in the full grant application (e.g., performance sites, key personnel, biographical sk etches).  
+ 
+Copyright Information 
+The text of the grant applications is copyrighted. Text from these applications can only be used for nonprofit, educational purposes. When using text from these applications for nonprofit, educational purposes, the text cannot be changed and the respective Principal Investigator, institution, and NCI must be appropriately cited and credited.  
+ Accessibility Individuals using assistive technology (e.g., screen reader, Braille reader, etc.) who experience difficulty accessing any information should send an email to the Implementation Science Team (NCIdccpsISteam@mail.nih.gov).  2 424 R&R and PHS -398 Specific  
+Table Of Contents 
+ 
+Examples of Funded Grants in Implementation Science  1 
+Table Of Contents  2 
+SF 424 R&R Face Page 3 
+Project Summary  4 
+Project Narrative  5 
+Specific Aims  6 
+Research Strategy  7 
+References  20 3 SF 424 R&R Face Page  
+ 
+PI: Mohile, Supriya G  
+ Grant Number: 1 R01 CA177592-01 
+ Title:  Reducing Chemotherapy Toxicity in Older Adults  
+ FOA:  PA12-136 
+ 
+FOA Title:  TRANSLATIONAL RESEARCH AT THE AGING/CANCER INTERFACE (TRACI) (R01) 
+ 
+Organization: UNIVERSITY OF ROCHESTER  
+ Department:  Hematology Oncology 
+ 
+Senior/Key Personnel:  Supriya Mohile  
+ 
+Organization: University of Rochester  
+ Role Category: PD/PI4 Project Summary  
+ 
+Over 60% of cancers occur in older persons, and the number of older cancer patients is expected to grow as the population ages. Older cancer patients are at increased risk of treatment complications, and there is no standard approach for reducing chemotherapy toxicity. Several studies, including a Cancer and Aging 
+Research Group (CARG) study in 500 patients, have demonstrated that 50% of older patients have severe 
+toxicity from chemotherapy within 3 months of treatment initiation and that measures within a geriatric assessment (GA), a validated approach to assessing health status in older persons, can predict severe chemotherapy toxicities. Although geriatric assessment has great potential to improve adverse outcomes of older adults with cancer, the majority  of oncologists have not adopted GA, largely because of lack of 
+knowledge on how to best incorporate GA into clinical care. The overall hypothesis of this proposed research is that providing oncologists with information from geriatric assessment with and targeted interventions guided by GA for older patients can reduce the risk of chemotherapy toxicity. The principal investigator, a geriatric oncologist, and the research team assembled through CARG are well positioned to successfully complete this high-impa ct research. The study will be conducted in 2 phases.  In Phase 1, patients aged 70 and over 
+(n=240) with metastatic solid tumor malignancies who are planning to receive first-line chemotherapy at 
+University of Rochester Community Clinical Oncology Program  (CCOP) sites will be recruited over the course 
+of 1 year.  “Usual -care” practices including physician characteristics, prescribing patterns, patient and 
+physician decision-making for chemotherapy initiation, and chemotherapy toxicity will be captured. In Phase 2, 
+we will conduct a 2-armed cluster randomized study utilizing CCOP sites. Prior to chemotherapy initiation, patients aged 70 and over (n=688) with metastatic solid tumor malignancies will complete a GA. The 
+oncologists at sites randomized to Arm 1 will receive a summary of GA results plus targeted interventions to 
+consider for implementation. In Arm 2, oncologists will only receive information from GA regarding severe depression or cognitive impairment. The primary outcome will be a comparison of the proportion of patients who have severe chemotherapy toxicity at 3 months after chemotherapy initiation. Secondary outcomes will include comparisons of survival, the number of interventions implemented in both groups, and decision-making for chemotherapy. An exploratory aim will evaluate whether or not GA plus targeted interventions can slow 
+functional and physical decline in older patients with advanced cancer. With regard to expected outcomes, this 
+proposal will fill vital gaps in knowledge regarding whether GA can improve outcomes of older cancer patients and the mechanisms of how GA can improve quality of life (decisions, GA -driven interventions). These data will 
+have a positive impact by providing a pragmatic mechanism for incorporating GA into routine clinical oncology 
+care to improve outcomes of older adults with metastatic  cancer. 5 Project Narrative  
+ 
+Over 60% of cancers occur in older persons, and the number of older cancer patients is expected to grow with the aging of the population. Older cancer patients are at increased risk of chemotherapy toxicity, and no standard approach exists to identifying risk and implementing interventions to prevent adverse outcomes. The 
+overarching goal of this proposal is to evaluate whether providing oncologists with geriatric assessment (GA) 
+information with targeted interventions can decrease chemotherapy toxicity in older adults. With regard to expected outcomes , this proposal will fill vital gaps in knowledge regarding whether GA can improve outcomes 
+of older cancer patients and the mechanisms of how GA can improve decision-making and quality of life.6 Specific Aims 
+This proposal addresses a key research priority in cancer and aging as recommended by a joint conference of 
+the NIA and NCI (Exploring the Role of Cancer Centers for Integrating Aging and Cancer Research), “Develop 
+interventions to reduce the medical effects of cancer treatment in older adults,” and meets the criteria for P -12-
+136, “Translational research at the Aging/Cancer interface.” The overarching goal of this proposal is to 
+evaluate whether providing oncologists with geriatric assessment information and geriatric 
+assessment -driven interventions can reduce chemotherapy toxicity in older adults. This proposal is 
+important because 60% of all cancers and 70% of cancer mortality occur in older adults.1 Common 
+assessment instruments in oncology such as performance status do not address critical domains that predict morbidity and mortality in the older patient.
+2 A geriatric assessment (GA) consists of a combination of reliable 
+and valid tools to assess these critical domains.3 In a multicenter 500 patient Cancer and Aging Research 
+Group (CARG) study, the PI and collaborators found that 50% of older patients develop grade 3- 5 toxicity 
+within 3 months of starting a new chemotherapy regimen (as measured by NCI Common Toxicity Criteria) and demonstrated that items included in a GA predicted chemotherapy toxicity.
+4 Interventions guided by GA (GA -
+driven interventions) have positive effects on health outcomes in older adults including prevention of disability 
+and reduction in falls, unplanned hospitalizations, and nursing home admissions.5-8  Several studies have 
+shown that incorporating GA and GA -driven interventions into the clinical care of older patients with cancer is 
+feasible.9-12 Nevertheless, the majority of oncologists have not adopted GA, largely because of lack of 
+knowledge on how to utilize GA to help with decision-making for cancer treatment and to employ interventions based on results. A U13 research conference (sponsored by CARG in collaboration with the NIA and NCI) led by the PI and collaborators (U13 AG038151) identified this area as a critical knowledge gap.
+2,13,14 
+ 
+In the University of Rochester Clinical Oncology Program (CCOP), we will conduct a cluster randomized study evaluating whether GA plus targeted interventions can improve outcomes in older adults starting first -line chemotherapy for metastatic solid tumor malignancies.  To allow for 
+comparisons of outcomes within the same CCOP sites before and after the intervention and between CCOP sites during the intervention, the proposed study will be conducted in 2 phases. In Phase 1, patients aged > 70 
+with metastatic cancer who will receive first- line chemotherapy will be recruited over the course of 1 year 
+(n=240). We will capture “usual -care” practices including baseline patient and physician characteristics, 
+prescribing patterns, and chemotherapy  toxicity.   In Phase 2, we will conduct a 2-arm cluster randomized 
+study utilizing CCOP sites. Prior to chemotherapy initiation, patients aged 70 and over (n=688) with metastatic solid tumor malignancies will complete a GA.
+4 The oncologists randomized to the intervention arm will receive 
+a summary of GA results plus a list of targeted GA -driven interventions to implement for each patient enrolled.  
+ Primary Aim: To determine if providing information regarding GA and GA -driven interventions to oncologists 
+reduces grade 3-5 chemotherapy toxicity in patients aged 70 and over with metastatic cancer.  
+Primary hypothesis: A lower proportion of patients in the intervention arm will develop grade 3-5 toxicity within 3 months of chemotherapy initiation.  
+ Secondary Aim 1: To determine whether providing oncologists with information regarding GA and GA -driven 
+interventions influences survival in older patients with metastatic cancer.  
+ Secondary Aim 2: To determine whether providing oncologists with information regarding GA and GA -driven 
+interventions influences clinical care of older patients receiving first-line chemotherapy for metastatic cancer. Aim 2A: To compare c hemotherapy treatment decisions (as measured by relative dose intensity of 
+chemotherapy administered in the first cycle)  
+Aim 2B: To compare the number and type of GA -driven interventions implemented for older patients 
+receiving first line chemotherapy for metastatic cancer  
+ Exploratory Aim: To determine whether providing oncologists with GA information and GA -driven 
+interventions can slow functional and physical decline in older patients with metastatic cancer.  
+ With regard to expected outcomes, this proposal will fill vital gaps in knowledge regarding the benefits of GA 
+for older cancer patients. This proposal also evaluates the mechanisms by which GA can improve quality of 
+care (decisions, GA-driven interventions) and quality of life (functional and physical decline). These data will 
+have a positive impact by providing a pragmatic mechanism for incorporating GA into routine clinical 
+oncology care to improve outcomes in older adults with metastatic solid tumor malignancies.  7 Research Strategy 
+II. SIGNIFICANCE: Although cancer is a disease of aging, older patients are underrepresented in clinical 
+trials.15,16 Balancing the benefits against the risks of chemotherapy in the older patient population is  challenging 
+because of the dearth of evidence-based data to guide these decisions.2,14  Furthermore, older patients who 
+are treated with chemotherapy are at high risk for adverse outcomes including serious chemotherapy toxicity 
+and functional and physical consequences.4,17,18 The American Society of Clinical Oncology (ASCO)  has 
+stated that to improve quality of care, oncologists and patients should carefully weigh the risks and benefits of 
+cancer -directed therapy for patients with a low performance status, who are not eligible for a clinical trial, and 
+for whom there is no strong evidence supporting the clinical value of treatment.19 These issues commonly 
+affect older adults. The National Comprehensive Cancer Network (NCCN) guidelines advocate GA for older 
+patients with cancer to identify health status issues that increase the risk of adverse outcomes.12,20-23 A GA 
+evaluates comorbidity, functional status, physical performance, cognitive ability, psychological status, 
+medications and social support with standardized tools that predict morbidity and mortality in community - 
+dwelling older adults.3,24,25 Benefits of GA in community -dwelling older adults include prevention of geriatric 
+syndromes, recognition of cognitive deficits, prevention of hospitalizations and nursing home admissions, and 
+overall improvement of quality of life.3,5,7,26 Evidence derived from research on GA -driven interventions in 
+community -dwelling older adults without cancer could benefit older patients with cancer, but this evidence has 
+not been widely adopted by oncologists.  The incorporation of GA as the standard of care in oncology has 
+been slow due to lack of resources, difficulties with interpreting results, and difficulties with implementing targeted interventions.
+11,12,27 Innovative and pragmatic interdisciplinary approaches to reduce risk of treatment 
+in older cancer patients are imperative. This research supports the NIH commitment to trans -NIH strategic 
+initiatives for the development of interdisciplinary research teams to address problems facing an aging nation.28 
+The overarching goal of this proposal is to evaluate whether providing the oncology team with 
+information from geriatric assessment plus geriatric assessment -driven interventions can improve 
+outcomes in older adults with metastatic cancer. This proposal addresses the main objective of the U13 
+conference, “Geriatric Oncology Research to Improve Clinical Care,” which is to develop innovative mechanisms to improve the clinical care of older cancer patients within the next 10 years.
+2,14  The GA has 
+great potential to identify areas of vulnerability and interventions that could help improve outcomes (e.g., chemotherapy toxicity) in older cancer patients.
+3,24,29  The PI in collaboration with CARG investigators has 
+found that older cancer patients have a high prevalence of characteristics that are associated with a greater risk of chemotherapy toxicity, and GA can help identify these risk factors (see Preliminary Data). This research is significant because: 1) a large and growing population of older cancer patients would benefit from the 
+results; 2) GA information can identify risk factors for chemotherapy toxicity in older cancer patients; however, 
+these questions are not routinely incorporated into the oncology clinical evaluation; and 3) a critical  operational 
+question exists: would provision of GA information along with GA -driven interventions to the oncology 
+treatment team improve outcomes in older patients with metastatic cancer? Successful completion of the aims of this proposal will provide an innovative, pragmatic approach that could improve clinical  care.  
+ 
+II.A. A growing population of older patients is at high risk for toxicity from cancer treatment. A dramatic 
+increase in the number of new cancer diagnoses is projected for the next 20 years.
+1 It is anticipated that 70% 
+of all cancer diagnoses will occur in adults aged ≥ 65 by the year 2030.1 Most clinical trials that set the 
+standard for oncology care and provide data about the risks and benefits of chemotherapy enroll a low 
+proportion of older adults.15 As a result, cancer treatment guidelines are often extrapolated from studies of 
+younger, healthier patients. The PI has shown that older patients with cancer have a high prevalence of comorbidity, disability, and geriatric syndromes.
+30,31 Patients with these health status issues are often excluded 
+from oncology clinical trials, despite the fact that the majority of older adults have these issues at the time of 
+cancer presentation.31,32 These health status issues can affect the ability to tolerate cancer  therapy .4,33-35 
+II.B. Geriatric assessment can identify risk factors for adverse outcomes in older cancer patients. 
+Geriatric assessment (GA) consists of a combination of reliable and valid tools to assess geriatric domains 
+such as comorbidity, functional status, physical performance, cognitive status, psychological status, nutritional 
+status, medications, and social support.3,24,25 Repetto et al. demonstrated that GA added information to 
+standard performance measures such as Karnofsky performance status (KPS), a one-item measure of function which was validated in younger patients.
+36,37 A CARG study (Hurria and Mohile, et al.) found that several GA 
+variables predicted severe chemotherapy toxicities in older patients (see Preliminary Data).4 Studies have 8 found that oncologists will modify treatment decisions based on GA results.10,38 GA has been shown to predict 
+overall survival in older cancer patients.39 Our research team has found the GA in this study was feasible in 
+oncology clinics and trials.4,12,29 
+II.C. There is a critical gap in knowledge regarding how to improve outcomes in older adults with 
+cancer.24,29,40 Despite the fact that the majority of cancer patients are in the older age groups, most  oncologists 
+have received little training in the care of older patients.41 As a result, common problems facing an aging 
+population of cancer patients may go unrecognized and produce serious consequences.14,40 Although GA 
+predicts risk from chemotherapy toxicity and survival in older patients with cancer, there is no evidence-based 
+approach regarding the use of interventions to reduce risk from cancer treatment. GA -driven interventions were 
+identified as an important area of research by geriatric oncology experts during the first U13 conference, and 
+examples of interventions (not all -inclusive) to address vulnerabilities in selected geriatric domains are listed in 
+Table 1 in Preliminary Data, IV.D.5 (white paper published in the Journal of the National Cancer Institute).2  
+The PI directs  a geriatric oncology clinic which implements GA -driven interventions derived from the geriatrics 
+and oncology literature (see Preliminary Data and Approach). This R01 proposal will evaluate whether a validated GA plus GA-driven interventions can reduce chemotherapy toxicity, improve decision- making, and 
+maintain function in older patients with metastatic cancer in community oncology  practices.  
+ III. INNOVATION: This proposal is  innovative because it challenges current paradigms of how older patients 
+with limited life expectancies are assessed for treatment of metastatic cancer and provides patient-oriented information that better predicts risk from treatment to oncology teams in “real time.” This study involves two 
+levels of translation:  the first level (T1) is the translation and integration of basic principles of aging science to clinical oncology settings, and the second (T2) involves the application of the intervention into practice in community oncology settings.
+42 Thus this RCT is designed to be a pragmatic translational effectiveness 
+trial, 42 in which oncology practitioners and their teams are offered a “package of services” to promote 
+improved health outcomes through effective assessment and interpretation of age-related conditions in the 
+context of a new diagnosis of incurable cancer. This proposal will adapt knowledge from geriatrics to a subspecialty that includes a high proportion of older patients at risk for adverse outcomes. The methodology utilized in this  proposal is innovative. The majority of the assessment is patient-oriented. We will implement a 
+practical web- based mechanism to summarize the patient-oriented information and provide the GA -driven 
+interventions to the oncology team. We will capture information on mechanisms of how GA influences clinical care including decision-making for treatment and numbers and types of GA -driven interventions implemented. 
+This proposal fulfills a recommendation from the U13 conference to engage community practices in geriatric oncology research, because the majority of older adults are not treated for their cancers within clinical trials, in cancer centers, or in tertiary care university hospital settings.
+2,43  The University of Rochester CCOP is the 
+ideal setting for this proposal because it will permit the intervention to be tested in diverse community  practices.  
+In summary, this proposal unites the fields of geriatrics and oncology , incorporating geriatric correlates 
+of vulnerability and studying their impact in an aging oncology population. This proposal builds upon existing infrastructure and utilizes innovative methodology to answer a critical knowledge gap in geriatric  oncology.  
+These results will facilitate decision- making regarding the risks and benefits of chemotherapy in older adults 
+and provide a pragmatic mechanism based on GA results for oncologists to implement interventions that can 
+improve treatment outcomes. 
+ 
+IV. APPROACH:  
+IV.A. Assessment of the Older Cancer Patient. Currently, oncologists assess functional status by assigning a KPS or Eastern Cooperative Oncology Group (ECOG) performance status.
+44,45 These generic scales are 
+applied to all adult cancer patients, regardless of age, and are used to estimate functional status in order to 
+determine a treatment course, assess eligibility for clinical trials, and predict treatment toxicity and survival.46,47 
+These tools may result in misleading decisions for the older patient, since clinical trials relying on these scales 
+have largely excluded elderly patients. A prospective study of 500 older adults with cancer (see Preliminary Data) demonstrated that KPS could not identify older adults at risk for chemotherapy toxicity, while a predictive model including GA questions could identify such individuals.
+4 The geriatrician’s evaluation provides valuable 
+information not provided by KPS or ECOG performance scores;24,25,48,49 however, GA is not commonly taught 
+in oncology training or utilized in oncology practice. A description of each GA domain and its relevance to the older patient with cancer is provided below. 
+A1. Functional Status and Physical Performance: The need for functional assistance (measured by ability to 9 complete activities of daily living) is predictive of chemotherapy toxicity and survival.50-53 Physical performance 
+measures objectively evaluate mobility and fall risk.54,55 Falls are common in cancer patients and predictive of 
+adverse outcomes.4,31,56 
+A2. Comorbidity and Polypharmacy : Among patients with cancer, comorbidity is associated with poorer overall  
+survival.57-61 Comorbidity impacts cancer treatment tolerance.62-65 Furthermore, these comorbid conditions may 
+predispose patients to the risks of polypharmacy and drug interactions.66 
+A3. Nutrition: Poor nutritional status is associated with an increased need for functional assistance and poorer 
+overall survival in the geriatric population.67 Unintentional weight loss during the 6 months prior to 
+chemotherapy is associated with lower chemotherapy response rates and lower overall survival.68 
+A4. Cognition: A cognitive assessment is needed to determine if the patient has the decisional capacity to 
+consent and adhere to supportive care medication instructions and understand the indi cations to seek 
+attention. In the presence of cognitive impairment, the involvement of the patient’s family or caregiver is 
+required to maintain safety.69-72 
+A5. Psychological State and Social Support: In a study of older adults with cancer, significant distress was 
+identified in 41% of older adults, and poorer physical function correlated with higher distress.72 In both the 
+geriatric and oncology literature, social isolation has been linked to an increased risk of mortality.73-75 
+ IV.B. GA -driven Interventions. I nterventions guided by GA have positive effects on health outcomes including 
+prevention of disability, and reduction in the risk of falls, unplanned hospitalizations, and nursing home admissions, providing evidence supporting the use of a multidimensional approach in older patients.
+5,7,26 
+Several studies have shown that the implementation of GA and GA -driven interventions into the clinical care of 
+older patients with cancer is feasible.9-12 The ELCAPA study illustrated that providing GA information and GA - 
+driven interventions to oncology teams can influence treatment decisions, although outcomes from these changes were not measured in this study.
+10 Another pilot study showed that GA affected the oncology 
+treatment plan.38 Published randomized studies evaluating outcomes from GA and GA -driven interventions in 
+older cancer patients are few. In a study by McCorkle et al.,76 
+geriatric nurse practitioners conducted GA with cancer patients, and this led to a survival advantage (67% in the intervention 
+group compared with 40% in the control group). In a study by 
+Goodwin et al., breast cancer patients in the GA -driven 
+interventions group were significantly more likely to return to 
+normal functioning than the controls.
+77 Different approaches for 
+chemotherapy selection and dosing for older and/or frail patients is supported by the literature and is incorporated into the framework as GA -driven interventions (see Preliminary Data). 
+The FOCUS -2 trial found that chemotherapy for advanced 
+colorectal cancer was safe and efficacious in the older and/or frail patient if started at a 20% dose reduction with escalation as tolerated.
+78 The GA and GA -driven interventions utilized in this 
+proposal have been developed through preliminary work, 
+extensive review of the evidence, and clinical expertise of the 
+geriatric oncologists on the research team.  IV.C. Conceptual Model. A conceptual model (Figure 1), 
+developed by the research team, demonstrates how information from GA guides interventions and decision-making. GA -driven 
+interventions and/or changes in chemotherapy treatment decisions (e.g., selection of regimen, dosing of chemotherapy, use of supportive care medications) could improve outcomes. 
+ IV.D. Preliminary Data: The investigative team is poised to build upon a considerable body of prior work. The 
+research team has conducted studies that have demonstrated the high prevalence of health status issues that 
+could influence cancer outcomes in older patients (D.1).
+30,31 They have developed a Geriatric Assessment tool 
+for older persons with cancer (D.2.).12 The feasibility of this tool has been studied in hundreds of cancer 
+patients in multicenter clinical trials (D.3. and D.4.).4,12,29 They have collaborated on a prospective multicenter 
+10 study to quantify the risks of chemotherapy among older adults with cancer (D.4.).4 Dr. Mohile has collected 
+pilot data from over 200 patients from her referral -based geriatric oncology clinic which administers GA -driven 
+interventions (D.5).79 Drs. Dale and Epstein have experience in the study of decision-making in oncology (D.6). 
+Other investigators lend significant expertise including outcomes and quality of care (Katia Noyes and David 
+Dougherty), statistical methodology (Charles Heckler, Katia Noyes, and William Dale), and CCOP procedures (Karen Mustian and Gary Morrow). Beverly Canin, an older cancer survivor who is a patient advocate and a member of CARG, is also on the research team. 
+ 
+D.1. Prevalence of Health Status Issues in Older 
+Patients with Cancer. Using a nationally representative 
+population-based database, Mohile and collaborators 
+(Dale and Morrow) published two investigations that demonstrated that disability, comorbidity, and geriatric 
+syndromes (including falls) are more common in cancer 
+patients and that cancer was independently associated with having these conditions (Figure 2).
+30,31 In addition, 
+Drs. Hurria and Mohile collected GA data from over 500 older cancer patients receiving chemotherapy at 7 
+institutions.
+4 The assessment revealed a number of 
+findings that would not have been detected on routine 
+history and physical exam: 41% of patients needed 
+assistance  with instrumental activities of daily living 
+despite a mean physician-reported KPS of 85, 16% had recent falls, and 6% had gross cognitive impairment on 
+the cognitive screening test.  
+ 
+D.2. Developing a Geriatric Assessment for Older Adults with Cancer.
+12 The geriatric and oncology 
+literature was reviewed to choose validated GA measures. Selection criteria included reliabil ity, validity, brevity, 
+the ability to self-administer, and the ability to prognosticate risk for morbidity or mortality in an older patient.12 
+The final selection of measures was approved by the Cancer and Leukemia Group B (CALGB) Cancer in the 
+Elderly and Quality of Life Committees. The initial feasibility study of this tool was conducted in a multicenter study by Dr. Hurria and Dr. Mohile. Forty patients (mean age 74, range 65 to 87) with cancer participated in the study. The GA was feasible, as demonstrated by a mean time to completion of 27 minutes, 90% of patients  
+were satisfied with the questionnaire length, and 78% were able to complete on 
+their own.
+12 
+ 
+D.3. Feasibility of Geriatric Assessment 
+Tool in Oncology Clinical Trials.29 
+CALGB 360401 evaluated the feasibility of 
+incorporating the GA into oncology 
+cooperative group trials for older adults who had signed consent for a cooperative group treatment trial. Ninety -three patients 
+enrolled in this study. The median time to complete the assessment was 22 minutes, 
+88% of patients completed the patient 
+portion without assistance, 88% were satisfied with the assessment length, and 95% said the assessment was easy to comprehend. The GA for cancer patients 
+met the protocol specified feasibility 
+criteria for use in the cooperative group setting.  
+11 D.4. Can the Geriatric Assessment Predict Chemotherapy Toxicity?4 The primary objective of this study 
+was to determine if GA measures  predicted grade 3-5 toxicity using the NCI Toxicity Index, Common 
+Terminology Criteria for Adverse Events (CTCAE, V3.0). Among the 500 enrollees, the mean age was 73 
+years (range 65-91). The most common tumor types were lung (29%), GI (29%) and breast/gynecologic (22%) 
+cancers; 61% had metastatic disease and 71% received 1st line chemotherapy. Grade 3-5 toxicity occurred in 
+53% (50%  grade 3, 12% grade 4, 2% grade 5). Risk factors for grade 3-5 toxicity included: 1) age ≥ 73, 2) 
+cancer type (GI or GU), 3) standard dose, 4) poly -chemotherapy, 5) falls in last 6 months, 6) assistance with 
+instrumental activities of daily living, and 7) decreased social activity. In the published CARG study, 307 of 500 
+patients had metastatic cancer and of these, 141 (46%) experienced grade 3, 4, or 5 toxicity within 3 months . 4 
+Seventy percent of the toxicities were non-hematologic (fatigue, nausea/vomiting, etc.). 
+ D.5. GA-driven interventions can influence oncology care and improve chemotherapy toxicity. Dr. 
+Mohile directs a referral -based consultative geriatric oncology clinic which has collected pilot data on GA - 
+driven interventions in over 200 patients.
+79 Mean age was 82.1 (65-95) and 75% had advanced disease. GA 
+revealed 68% with functional impairment, 70% had >3 significant comorbidities, 39% had poor nutrition,80 26% 
+screened positive for depression,81 59% reported inadequate social support, 20% had an abnormal cognition 
+screen,82 34% had recently fallen, and 60% had poor physical performance.54,83 Table 1 on the previous page 
+lists the GA -driven interventions implemented. Dr. Mohile’s research team prospectively evaluated the grade 3- 
+5 toxicity rate of 100 consecutive patients who underwent GA and GA -driven interventions. These patients 
+were older (mean age 80, 70-91), but had similar cancer characteristics to the published observational cohort.4 
+Grade 3-4 toxicities occurred in 33 of 100 patients within 3 months of chemotherapy initiation. No patients developed grade 5 toxicities. This is lower than the rate reported in the CARG  study of patients whose 
+physicians did not receive GA results and did not implement GA -driven interventions.
+ 4   On average, 80% of 
+the recommended GA -driven interventions were implemented with an average of 6 interventions per patient 
+(range 3-15). Building on this preliminary data, Dr. Mohile received funding through a NIA GEMSSTAR R03 
+which will finalize an algorithm for GA -driven interventions using a Delphi consensus panel of geriatric 
+oncology experts by February, 2013. At the annual CCOP meeting in September of 2012, CCOP site PIs expressed unanimous interest in the current proposal and >90% stated that they have the resources necessary to follow through with GA -driven interventions (e.g., availability of PT/OT/Nutrition/Social work).  
+ D.6. The research team has experience with interventions that affect decision-making for treatment of 
+advanced cancer. Dr. Epstein, an expert in patient-centered communication, has used multi -method research 
+to study patient-physician interactions involving analyses of patient and physician surveys and medical record audits. His research team has helped to establish that patient-centered communication is associated with improved information exchange, reduced symptom burden, lower heath care costs and greater patient 
+involvement in decision- making.
+84-86 The measures to assess decision-making in Dr. Epstein’s NC I-funded 
+RO1 (PI is a co-investigator) have been adapted for patients with advanced cancer.87,88 Dr. Dale, Chief of 
+Geriatrics and Palliative Care at the University of Chicago, has expertise in medical decision-making, quality of 
+life, and frailty, and has studied the role of emotions in decisions about screening, diagnosis, and treatment of cancer in older persons. He and Dr. Mohile have collaborated on a study that evaluated patient-physician 
+decisions with regard to treatment of advanced prostate cancer.
+89 The patient and physician measures utilized 
+in this proposal to capture decision- making for chemotherapy initiation are adapted from this prior  work.  
+ 
+IV.E. Research Design and Methods: 
+E.1. Study Design: Adults age > 70 with a recent diagnosis of cancer who will receive chemotherapy for 
+metastatic solid tumor malignancy with a physician estimated prognosis of < 1 year will be eligible. Eligible 
+patients will undergo a full informed consent process; those who agree to participate in this study will undergo a clinical assessment consisting of sociodemographic characteristics, cancer history, GA, and decision-making preferences as described in the preliminary data (Appendix I).  The clinical assessments will be performed prior to initiation of chemotherapy. Physicians for the enrolled patients will also be consented.  The study will be conducted in 2 phases in order to allow for between CCOP site and same CCOP site comparisons (Figure 
+3). Phase I of the proposal includes an observational time period of 1 year in order to collect baseline 
+information on patient and physician characteristics, practice patterns (chemotherapy drugs and doses, use of supportive care interventions, etc.), decision -making preferences, and toxicity rates. In Phase I, GA information 
+(other than clinically significant cognitive deficit and depression) will not be provided to the physician as these 12 are not routinely captured in clinical care. Phase II will consist of a cluster randomized trial in which CCOP 
+sites (n=16, patient n=688) will be randomized to receipt of GA plus interventions guided by GA results or 
+usual care. In Arm 1, physicians will be provided with GA information plus GA -driven interventions and the 
+uptake of these interventions along with the influence of GA on decisions will be captured. In Arm 2, patients 
+will complete GA, but information other than clinically significant cognitive impairment and depression will not be provided to the oncology teams. In both Arms, patients will subsequently receive chemotherapy as prescribed by the treating physician. Chemotherapy drugs and doses (throughout the entire course) will be recorded, as well as supportive care medications. NCI CTCAE grade 3-5 toxicities will be captured. Laboratory 
+results from routine blood work (blood counts, creatinine, liver function tests) will be collected from medical 
+record. In addition, dose delays, dose reductions, discontinuation of treatment, hospitalizations, and survival status will be captured, as well as the relationship of these events to toxicity (Appendix II). A follow -up GA 
+along with measures of decision-making will be collected 3 months after study  entry.  
+ 
+ 
+ E.2. Study Sample: Patient eligibility will include the following: age 70 and over, diagnosis of an incurable  solid 
+tumor malignancy, and plan to receive first-line chemotherapy within 2 weeks, and life expectancy of at least 3 months. It should “not be surprising” to the physician if the patient died within 12 months.  Exclusion criteria will include targeted therapy, radiation, or surgery within the first 3 months of chemotherapy initiation. Patients 
+must understand English because not all GA measures have been validated in other languages. Eligible 
+patients who are interested in participating will undergo the informed consent procedure. With IRB and patient permission, demographic information will be collected on patients who decline enrollment in this trial in order  to 
+assess demographic characteristics among those who decline. Eligible physicians are those at CCOP sites and their consent will be obtained at the time they enroll their first patients to the study. 
+ E.3. Recruitment: Patients will be recruited from the 23 outpatient community oncology practices within the University of Rochester (UR) CCOP (each as more than 2 oncologists). The UR CCOP is led by Dr. Gary Morrow (see letter of collaboration). Appendix III includes information on the CCOP sites and their accrual to CCOP protocols (all of which accrued several hundred patients to symptom control interventions over 2-4 
+years). All sites have research staff through the CCOP infrastructure and the UR Research Base serves as the 
+central site for managing protocol procedures, regulatory aspects of the protocol, and data management (see letter of support from Dr. Ann O’Mara from NCI). Strengths of this multi-site recruitment strategy are: 1) participation of several sites will increase the speed of accrual in order to accelerate the pace of scienti fic 
+discovery and reporting; 2) a multicenter design allows for geographically diverse enrollment; and 3) the majority of older cancer patients are treated in community settings. The results of this study will be 
+generalizable to the majority of older adults with cancer because it will include older cancer patients from 
+diverse backgrounds with other health status conditions who receive treatment in the community. 
+ E.4. Clinical Assessments (Appendix I): The clinical assessment consists of 3 parts: 1) sociodemographic information; 2) tumor and treatment characteristics; and 3) GA variables. Other than the cognitive and physical 
+13 performance measures, the assessments are self-administered. Patients who cannot complete the 
+assessment on their own will receive assistance from the research assistant. The assessment is performed 
+“pre-chemotherapy,” defined as the day of the 1st cycle of chemotherapy or up to 2 weeks before. The study 
+team has trained research assistants at numerous institutions and within the cooperative group setting in how to facilitate data capture and conduct the objective assessments.
+4,12,29,90 As noted in Figure 3, the assessment 
+information, except for clinically significant depression and cognitive impairment, will not be provided to the oncologists in Phase I or to Arm 2 (usual care) in Phase II, but will be provided to the oncologists in Arm 1 in Phase II as part of the intervention. CCOP research assistants and physicians in the intervention arm will 
+obtain training in the form of a slide- set, protocol -specific manual, and ASCO’s “Cancer in the Older Adult,” on 
+how to utilize GA information to make decisions. The GA information and summary will be generated by a web-
+based program that is available through mycarg.org (see E.7 and Appendix II for training materials).  
+E.4.1. Sociodemographics: Patient age, race and ethnicity, highest level of education achieved, 
+marital status, and presence of a living companion will be captured. 
+E.4.2. Tumor and Treatment Characteristics: The tumor stage, previous surgery or radiation, chemotherapy 
+type, dosing, and schedule (intended and received), and supportive care medications will be abstracted from 
+medical and pharmacy  records.  
+E.4.3. Geriatric Assessment:  
+E.4.3.a. Functional Status and Physical Performance: 
+i) Instrumental Activities of Daily Living (IADL):91,92 The IADL subscale consists of 7 questions rated on a 3- 
+point Likert scale measuring degree to which a functional activity can be performed independently. Five  week 
+test-retest correlation is 0.71 for the IADL subscale. 
+ii) Medical Outcomes Study [MOS] Physical Health Scale:38 Items are rated on a 3-point Likert scale measuring 
+independence in performing physical functioning activities. Internal consistency of the scale is  0.92. 
+iii) Karnofsky Performance Status (KPS) Scale (Healthcare Professional Rating) :93 Patients are given a score 
+on a numerical scale of 0-100 as a global indicator of functional status by their  oncologists.94 
+iv) Timed Up and Go:95 The Timed Up & Go is a performance based test of functional status, measuring how 
+many seconds it takes to stand up from a standard arm -chair, walk 3 meters (10 feet), turn, walk back to the 
+chair, and sit down again. In community dwelling older adults, there was inter -rater and intra-rater reliability 
+(intraclass correlation coefficient 0.99 for  both). 
+v) Number of Falls :96,97 Patients will report their number of falls in the previous 3 months. 
+E.4.3.b. Comorbidity: Physical Health Section (Older American Resources & Services Questionnaire 
+[OARS])91 lists comorbid conditions and the degree to which they impair daily activities, rated on a 3-point scale 
+of “not at all” to “a great deal.” Test-retest reliability over 5 weeks was  0.66. 
+E.4.3.c. Cognition: Blessed Orientation-Memory -Concentration Test (BOMC)98 has excellent validity as a 
+screening instrument for gross cognitive impairment, correlates with clinicians' ratings of dementia severity ( r = 
+0.89), and discriminates between patients with mild, moderate, and severe cognitive deficits.82 
+E.4.3.d. Nutritional Status: Percentage of Unintentional Weight Loss in Last 6 Months68 and Body Mass  Index 
+(BMI)99 will be collected from medical record, if available, or by patient report. 
+E.4.3.e. Psychological Status:  Mental Health Inventory (MHI) -17100 has community  norms  
+based upon 5,000 respondents from 6 communities. In order to reduce respondent burden, a 17-item version 
+(shortened from the 38-item version) of the MHI will be used, which will yield 3 global scores of Psychological 
+Distress, Psychological Well -Being, and the MHI total score.101 
+E.4.3.f. Social Functioning:  MOS Social Activity Limitations Measure92 is a 4-item scale that includes the 
+extent to which physical or emotional problems have interfered with their social activities. All items are rated on 
+a 5-point Likert scale. Internal consistency was good (alpha coefficient = .77). 
+E.4.3.g. Social Support:  MOS Social Support Survey102 was tested on 2,987 patients and designed to assess 
+social support of patients for medical care. Internal consistency of the subscales and total score are excellent (alpha coefficient ≥ 0.91). Convergent validity is demonstr ated by correlations of social support total score with 
+measures of mental health ( r = 0.45). 
+E.4.4. Laboratory assessment:  Laboratory values which are considered standard of care will be  abstracted  
+from the patient’s chart: hematologic function (WBC and hemoglobin), renal function (BUN, creatinine), and 
+hepatic function (aspartate aminotransferase [AST], alanine aminotransferase [ALT], total bilirubin, alkaline 
+phosphatase, and albumin). The normal ranges for the particular lab will be captured for each si te. 
+ E.5. Decision-Making Assessments (Appendix I):  As developed through the prior research of Drs. Dale and 14 Epstein, we will collect measures to assess the processes of communication, decision-making, and experience 
+of care in Phase I and II. For each physician-patient dyad, we will conduct assessments at study entry to 
+assess factors that influence the decision to initiate chemotherapy (baseline), and we assess perceptions 
+about the initial decision at 3 months (follow -up). The total number of items in the assessments below is 20 and 
+will take <10 minutes to complete. Drs. Epstein and Mohile have utilized these decision-making assessments in an ongoing NCI R01-funded communication study for advanced cancer patients. We will also collect type, dosing, and Relative Dose Intensity (RDI) of chemotherapy  received.  
+E.5.1. Patient Assessments:  
+E.5.1.a. The Perceived Efficacy in Patient-Physician Interactions (PEPPI) scale (Baseline)103 measures 
+patients’ confidence in their ability to communicate their concerns, obtain and understand information, ask questions, clarify uncertainties, and make sure that their doctor understands them. In older patients, a 5-it em 
+short form of PEFPI demonstrated Cronbach's alphas of 0.83. PEPPI demonstrated discriminant and convergent validity, correlating positively with active coping (r=.17, P=.03) and with patient satisfaction with 
+physician interpersonal manner (r=.49, P < .01) and communication (r=.51, P < .01). 
+E.5.1.b. Peace, Equanimity, and Acceptance in the Cancer Experience (PEACE)(Baseline)104 evaluates the 
+extent to which patients with advanced cancer have a sense of peaceful acceptance of their terminal illness. 
+Evaluated in 160 patients with advanced cancer, the 12-item PEACE questionnaire has 2 subscales: a 7-item 
+Struggle With Illness subscale (Cronbach alpha = .81) and a 5-item Peaceful Acceptance subscale (alpha = 
+.78). Both subscales were associated with patients' self-reported peacefulness (correlation coefficient [r] = 0.66 for acceptance [P <.01]; r = -0.37 for struggle [P < .01]). E.5.1.c. Control Preferences Scale (Baseline)
+105 assesses whether patients would want an active, passive, or 
+shared decision-making process with their doctors. This tool has been validated for use in advanced cancer patients and older  patients.
+106,107 
+E.5.1.d. Decision Regret (Follow -up)108-110 assesses distress or remorse regarding a prior health care decision. 
+In the validation study, the scale showed good internal consistency (Cronbach’s = 0.81 to 0.92). It correlated strongly with decision satisfaction (r = – 0.40 to – 0.60), decisional conflict (r =0.31 to 0.52), and overall rated 
+quality of life (r = –0.25 to – 0.27). The tool has been utilized for assessing decisional regret for patients who 
+underwent treatment for breast and prostate cancer. 
+E.5.1.e. Health Care Climate Questionnaire (HCCQ) (Follow -up)111-113 measures patient-centered autonomy - 
+supportive physician behaviors such as whether the patient feels  that the physician understands his/her 
+perspective, provides choices and options, and encourages patient participation in decisions. The measure has been studied and validated in older  patients.  
+E.5.2. Physician Assessments:  
+E.5.2.a. Comfort with shared decision-making (Baseline): The goal of shared decision making is to make 
+decisions in a manner consistent with the patient's wishes. The patient drives the process. Determining where 
+on the shared decision- making continuum the patient feels most comfortable requires clear communication and 
+dedicated time from the physician. Several studies have utilized the proposed measure for assessing the 
+relationship of physician decision-making style on clinical  outcomes.85,107,114 
+E.5.2.b. Decision Regret (Follow -up): The Decisional Regret Scale assesses remorse regarding a prior health 
+care decision. We have adapted the tool to evaluate the physician’s perspective regarding regret for the prior 
+decision of chemotherapy  initiation.  
+E.5.3. Chemotherapy Decisions (Appendix II): The NCCN guidelines115 will be utilized to capture the 
+standard dosing of  chemotherapy regimens. The planned chemotherapy regimen (individual drugs, doses, 
+and schedule) will be captured at the beginning of the study from the primary oncology team. The cumulative dosages per unit time of the individual drugs in the regimen will be calculated: (total mg of drug in all  cycles/m2 
+body surface area)/ (total days of therapy/7). The denominator is based on total days on treatment (from day 1 
+of cycle 1 through 1 cycle length after the date of the last treatment), reflecting all dose delays. The RDI is 
+calculated as the ratio of the amount actually delivered to the amount intended based on standard guidelines. The actual dose delivered (in the numerator of RDI) will account for chemotherapy dose reductions. The RDI is 
+calculated for each cytotoxic drug in a multidrug regimen, which are averaged to derive the average RDI. 
+ 
+E.6. Assessment of Clinical Outcomes (Appendix II): 
+E.6.1. Chemotherapy toxicity:  Chemotherapy toxicity will be captured in a standardized manner using the 
+NCI Common Toxicity Criteria for Adverse Events (V4.0). The research assistant will be present at each 
+scheduled doctor’s visit where chemotherapy toxicities are captured and graded. The medical record will also 15 be reviewed in order to capture each clinical encounter (scheduled or emergency visits). This will include a 
+review of the clinic notes, emergency room visits, and hospitalizations. If the patient seeks emergency care 
+outside of the primary institution, the patient’s permission will be obtained to review these outside records.  
+Each patient’s clinical course will be reviewed by the PI and CCOP site PI. Toxicity reviews will occur via a 
+conference cal l including the 2 physicians, the project manager, and the site research assistant. These 
+conference calls occur at least every other month with each CCOP site. During these conference calls, the medical record will be reviewed and the grade 3-5 toxicities  (NCI CTCAE v4.0) attributable to the 
+chemotherapy course will be captured. Details regarding the overall category of toxicity (hematologic or non- 
+hematologic), specific type of toxicity, and the rationale for the toxicity grade will be captured. Dose reductions, 
+dose delays or discontinuation of the chemotherapy course will also be captured, as well as the cause (ie, relationship to toxicity). A final “toxicity tool” (Appendix III) will be completed for each patient summarizing the above.  Drs. Hurria and Mohile have experience overseeing these procedures through the CARG toxicity 
+study
+4 and a NCI-funded R01 evaluating predictors of toxicity in older women receiving adjuvant chemotherapy 
+for adjuvant breast cancer (PI: Hurria, Site PI: Mohile). 
+E.6.2. Survival: We will capture survival through medical record and verification with the primary team. We 
+will follow patients for survival for up to 6 months after the last enrolled patient. We will obtain the date, location of death, and cause of death. We will verify information with the Social Security Death Index.  
+ 
+E.7. Intervention: CCOP sites will be randomized at the beginning of Phase II. The top 16 accruing sites  
+during Phase I will be randomized to Arm 1 or Arm 2 (8 sites per arm).   CCOP research assistants will 
+undergo training on measurement collection and intervention implementation (see E.9.2). In addition, prior to the Phase II, oncologists randomized to intervention arm will receive a set of slides, a protocol -specific manual, 
+and the American Society of Clinical Oncology (ASCO)’s “Cancer in Older Patients” to train them on how  to 
+best utilize the GA information to make decisions for cancer treatment (see Appendix II for physician training 
+materials). The slides and manual will be developed from materials from Drs. Mohile and Hurria’s ASCO 
+lectures. Oncologists and their research staff at the CCOP sites will present the study to the patient and 
+conduct the informed consent process. As described in E.4., GA measures, cancer related variables, intended treatment plan will be collected from the patient and primary oncology team. Individual items will be collected on Teleforms (Appendix I). The research assistants at sites randomized to Arm 1 will be trained to utilize the 
+mycarg.org website to derive a summary of GA scores and a list of targeted GA interventions based on GA 
+results. The mycarg.org website has the GA measures and programming already built into it. This information 
+will be printed by the site research assistants for the oncology physician who will “sign off” that he/she has received the information and check which interventions were considered and implemented (Appendix II has the collection form of interventions). We will collect the summary information provided to oncologist and the 
+checklist. We will also verify from the oncology team and the medical record which interventions were utilized 
+and solicit feedback regarding why interventions were not implemented. 
+ 
+E.8. Statistical Analysis 
+Unless otherwise stated, all statistical tests will be performed at the two-tailed 5% level of significance.  
+Likewise, 95% confidence intervals will be constructed for effect estimates. Data will be analyzed on an "intent-
+to-treat" basis. The assumptions underlying all statistical analyses will be thoroughly checked using appropriate graphical and numerical methods.
+116,117 In case of serious violations of distributional assumptions 
+such as normality, appropriate transformations or nonparametric methods will be performed.118,119 If outliers or 
+influential data are detected, the accuracy of the data will be investigated. If no errors are found, analyses will be repeated after removing these cases to evaluate their impact on the results.  However, the final analyses 
+will include these data points.  
+This is a cluster -randomized trial with CCOP sites being the clusters. The analyses involve use of 
+mixed models that take into consideration possible correlation among the subjects within a cluster. This is accomplished by including CCOP site as a random effect in all the models below. Intra-cluster correlation (ICC) 
+will be calculated from the variance component estimates as Var(CCOP) / [Var(CCOP) + Var(Residual)]. To estimate uncertainty in the calculated ICCs, we will use Bayesian methods (Markov Chain Monte-Carlo) 
+assuming a noninformative prior to estimate credible intervals for the computed ICCs. The specific CCOP 
+differences will be assessed graphically using Best Linear Unbiased Predictors (BLUP) of the mean response 
+for each CCOP.  
+E.8.1. Justification of Study Design: The study is designed as a cluster randomized trial because a care or 16 service model is applied to each patient by the oncology team. If a cluster design were not undertaken, there 
+would be contamination in that practitioners and teams could choose the care or service model once they were 
+exposed to patients in both arms. Given the importance of comparing changes within each CCOP site’s practice with regards to the primary and secondary outcomes, we will collect this information during a 1 year lead in period (Phase I) before the intervention (Phase II). The lead-in period also will allow us to collect underlying practice and patient characteristics that would be important for analyses if there is an imbalance in randomization. This lead-in period will also provide valuable information regarding accrual to help identify the top 16 CCOP sites for accrual would be able to meet accrual goals in Phase II. The cluster randomized design 
+will allow f or the comparison of chemotherapy toxicity between Arms 1 and 2 in the same timeframe. Accrual of 
+sites to previous studies is listed in Appendix III and demonstrates the ability of the CCOP sites to accrue.  
+Accrual to the Phase II portion of the study would be accomplished within 3 years as there are 16 sites which 
+routinely enroll more than 15 patients per year to CCOP protocols.  
+E.8.2. Sample Size Considerations: 
+E.8.2.a. Phase II Sample Size: The primary outcome measure for this study is the proportion of patients who 
+experience grade 3-5 chemotherapy toxicity within 3 months of chemotherapy initiation. Given the clinical significance of chemotherapy toxicity, we propose that any statistically significant reduction in the proportion of patients who experience chemotherapy toxicity would be clinically significant. In the published CARG study, 307 of 500 patients had metastatic cancer and of these, 141 (46%) experienced grade 3, 4, or 5 toxicity within 
+3 months.
+4 The proportion of patients who underwent full geriatric assessment plus interventions in our 
+geriatric oncology clinic that experienced chemotherapy toxicity was 33%. Our patient population, aged 70 and 
+over with metastatic solid tumor malignancies receiving chemotherapy, was similar to patients studied in our 
+preliminary work. Our previous multicenter study4 has allowed us to calculate the intracluster correlation (ICC) 
+amongst 7 different sites for the assessment of the primary outcome, chemotherapy toxicity. The ICC was low, 0.002, which likely reflects the standard way that oncologists and their teams assess chemotherapy  toxicity  
+with NCI Common Toxicity Criteria. To be on the conservative side, our power calculations assume ICC=0.10. This design with 8 CCOP sites per arm and 39 evaluable subjects per CCOP site has  80% power to detect a 
+13% reduction in the proportion of patients who experience grade 3-5 chemotherapy toxicity within 3 months  of 
+chemotherapy initiation, assuming a two-sided significance level of 0.05 and an ICC of 0.10. See Table 2 to the right for sample size requirements for some other changes in proportion of toxicity. Accounting for a small 
+drop-out rate of 10% (based on our observational cohort data
+4), the targeted accrual will be 43/CCOP site, or 
+688 subjects total. Because chemotherapy toxicity is assessed from the medical record and primary team, the 
+drop-out rate reflects patients who sign consent 
+but withdraw prior to baseline assessment. 
+E.8.2.b. Phase I Sample Size: We anticipate that 
+16 of our top accruing sites can enroll 15 patients 
+each during Phase I, and we will allow enrollment 
+of up to 28 patients per site, so the total Phase I accrual will be at least 240. 
+E.8.3. Primary Analysis: The primary outcome 
+measure for this study is the proportion of patients 
+who experience grade 3 -5 chemotherapy toxicity  
+within 3 months of chemotherapy initiation. Because of the  cluster  randomized study design, we will apply  
+generalized linear mixed model (GLMM) methodology to the Phase II data.120 Chemotherapy toxicity will be the 
+response, and Arm will be the fixed effect. CCOP site will be entered as a random effect independent of 
+residual error. Estimation will be performed using the Residual Pseudo Likelihood procedure, assuming a 
+binomial distribution and logit link. Using the fitted model, we will provide estimates and 95% confidence 
+intervals for proportion of patients who experience chemotherapy toxicity for each arm, as well as risk ratios between the arms. E.8.4. Secondary Aim 1: We will determine the effect of the intervention on 6-month survival using logrank 
+tests and survival plots. Assuming an exponential survival distribution, and given survival proportion of 0.89 at 
+6 months from our previous observational work
+4 and a sample size of 624, we estimate that there will be 80% 
+power (0.05 significance level) to detect an increase in survival proportion greater than 0.942, implying a detectable hazard ratio of 0.511. 
+E.8.5. Secondary Aim 2: For specific aim 2a, we will compare the effect of the intervention on measures of 
+decisional regret (both patient and physician) and satisfaction (health care climate questionnaire) using four 
+17 linear mixed models (regret, satisfaction for each of subjects and physicians). For each model, Arm will be the 
+fixed effect and CCOP will be a random effect (independent of residual error). Restricted Maximum Likelihood 
+(REML) estimation will be used, and inference will be performed using the Kenward-Roger degrees of freedom 
+adjustment procedure. We will also determine whether the intervention influences the relative dose intensity (RDI) of chemotherapy given in the first line setting by analyzing the Phase II RDI in the same manner. In addition, to investigate whether the intervention changes chemotherapy dosing, we will combine the Phase I data for the CCOPs randomized to the intervention with the Phase II intervention group RDI data, and analyze with a linear mixed model. In this model, RDI will be the response. The fixed effect will be Phase (I vs. II), and 
+the random effects will be CCOP and Phase*CCOP interaction. Overall change in dosing will be assessed with 
+an F Test on the Phase effect. The variance component associated with this interaction will measure CCOP -
+dependent changes in dosing from Phase I to Phase II. The significance of the interaction variance component will be performed using restricted likelihood ratio tests with appropriate adjustment of p-values to account for the null hypothesis being at the edge of the variance component parameter space, i.e. H0: V(S*C)=0). If the 
+interaction is statistically significant, Best Linear Unbiased Predictions (BLUPs) will be calculated for each 
+CCOP and Phase combination, and interpreted with graphics and descriptive statistics to understand the direction of the dosing changes for specific CCOPs. Lastly, we will determine the association of baseline physician and patient decision-making interaction on likelihood of developing chemotherapy toxicity. Variables to be evaluated will be derived from patient assessments (PEPPI, PEACE, control preferences (CP)) and 
+physician comfort (PC) with shared decision-making. A GLMM will be fit with chemotherapy toxicity as the 
+response, Arm, PEPPI, PEACE, CP and PC as fixed factors, and CCOP site as a random effect independent of residual error. Otherwise, the modeling methodology is the same as for the Primary  Aim. 
+For Aim 2b: We will compare whether the uptake of geriatric assessment interventions (% of 
+recommended interventions carried out influences chemotherapy toxicity. The Phase II data from the intervention arm will be fit to a GLMM with chemotherapy toxicity as the outcome, percent of recommended 
+interventions as the fixed effect, and CCOP site as a random effect independent of residual error. Otherwise, 
+the modeling methodology is the same as for the Primary Aim.  
+E.8.6. Exploratory Aim: We will evaluate changes in functional abilities and physical performance between 
+Arms 1 and 2 during Phase II. For each of these outcomes, a LMM structured the same as that used in Specific Aim 2 will be used. Functional status will measured with IADL score. Physical performance will be 
+measured with the OARS Physical Health Subscale and the Timed Up and Go. We will also evaluate changes 
+between Phase I and Phase II by comparing these measures for patients enrolled at CCOP sites randomized 
+in Arm 1 and Arm 2 with measures from patients at the same sites (as a group) during the lead-in period. This will be accomplished by calculating Phase II-Phase I change scores for each of the outcomes and then fitting LMMs to each with (a) Arm as the fixed effect if analyzing the Phase II subjects or (b) no fixed effects (except the intercept) if analyzing the Phase I subjects, and CCOP site as a random effect independent of residual 
+error. Mean changes with 95% confidence intervals (Phase II Control, Intervention, and Phase I) will be 
+estimated through the models as  appropriate.  
+E.8.7. Missing Data: Every effort will be made to encourage and facilitate participants' completion of 
+questionnaires, but because of dropout, missing data will occur. We will evaluate the patterns of missing data and associations of missingness with other available variables. Under the missing at random (MAR) 
+assumption, we will use multiple imputation to obtain unbiased estimates of the key statistics. If the data are 
+suspected to be missing not at random (MNAR), a sensitivity analysis using selection and/or pattern-mixture models will be run to determine the impact on the results.
+121 If the estimates are similar to the ones obtained 
+from the simpler analysis of only complete cases, we will report the complete-case analysis  results. 
+ E.9. Data Management and Quality Assurance  
+E.9.1. Registration and Randomization: Patients will be registered through the University of Rochester’s 
+CCOP Research Base website at: http://urmc -cancercontrol.org/ . This website is compliant with IRB 
+regulations and is utilized in multiple NCI-sponsored phase III CCOP trials. Site- specific passwords are in 
+place. A confirmation of registration by email and fax will be sent to the research team. Sites will be randomized to one of the 2 arms by means of a computer -generated random table with equal probability of 
+block size of 2 or 4. The randomization process will be administered using R software provided by Dr. Charles Heckler, the lead biostatistician of the NIH -funded CCOP. CCOP registration, randomization, and procedures 
+are located in Appendix  III. 
+E.9.2. Training Procedures: The PI, assisted by the project coordinator and CCOP research staff, will ensure 18 that all sites are trained in the research procedures. A start-up meeting will be held during the 1st year of the 
+grant which will coincide with the UR CCOP annual meeting in September. Per CCOP requirements, all 
+participating investigators  have undergone completion of training in human subject protection. In addition to the 
+start-up visit, the site research study staff will undergo centralized training with the project coordinator which 
+will include a detailed review of the study rationale, design, and research administration procedures  
+(which will also be summarized in a field manual). The training procedure and field manual will review the following procedures: 1) informed consent; 2) completing the assessments using Teleforms; 3) completing the functional and objective measures; 4) data collection via chart extraction; 5) completing the web-based 
+intervention using mycarg.org (for intervention arm in Phase II); 6) transfer of the data to UR CCOP research 
+base; 7) formulating the research chart; 8) cultural competency training (utilizing the Multicultural Tool Kit147 developed by the Oncology Nursing Society); and 9) a discussion of interviewing techniques so that the research team will standardize their approaches in order to elicit consistent data from subjects. These training sessions will take place at the CCOP annual meetings and via teleconference. There will be a protocol update 
+every year at the CCOP annual meeting. All assessments, data collection forms, and manuals will be readily 
+available on the CCOP Research Base website. In addition, physicians in the intervention arm will receive 
+specific training in the forms of slides (derived from ASCO sessions), a protocol -specific manual, and ASCO’s 
+“Cancer in Older Patients” which will educate them on how to utilize GA plus interventions in clinical practice.  
+E.9.3. Data Management: The same protocols and procedures for data quality and control that we use for the 
+UR CCOP Research Base protocols that our office oversees (which accrued over 1,000 patients in the 
+previous year) will be used for this study. Once the patient consents to the protocol, he/she will be assigned an encrypted patient identifier number through the registration procedures coordinated by the Research Base, 
+which will be used to identify the patient on all patient data forms and data management files. Physician and 
+patient assessments will be captured using Teleforms. The research assistant at each site will ensure that data are complete. Assessment of cancer characteristics, chemotherapy treatment and RDI, and toxicity outcomes  
+will be captured via Teleforms. These are scannable and are electronically sent to a password-secure Access database which is backed up every 24 hours. At the UR CCOP Research Base, study staff dedicated to this 
+project will work with the specific sites to ensure that all data are collected in order to minimize missing data. 
+Study staff will do a 2nd check to make sure that all data are complete. Conference calls will be held four times per year with each participating site. These calls include: 1) the national study PI (Mohile); 2) project manager; 
+3) data manager; 4) site PI; 5) site research assistant. During these calls, study reports (accrual/retention, 
+received data, etc) will be reviewed. A systematic review of each patient’s chart will be performed to capture grade 3-5 toxicity attributable to chemotherapy, hospitalizations, dose delays, dose reduction, and reason for discontinuation of chemotherapy. Based on this  team’s experience in CARG studies as noted in preliminary 
+data, on average, 6 patient charts can be reviewed within a 1-hour conference call . 
+ 
+E.10. Design Considerations and Alternative Approaches: We considered focusing on specific tumor  types 
+versus including all patients with metastatic solid tumors. Because older patients with metastatic cancer 
+receiving first-line chemotherapy have a high likelihood of chemotherapy toxicity, we have decided to include patients with any metastatic solid tumor malignancy. These patients will receive the chemotherapy regimen prescribed by  their oncologist. We did not want to limit the inclusion criteria because we wish to demonstrate 
+the efficacy of the intervention for improving chemotherapy toxicity in a diverse and generalizeable group of older patients. Instead, we wanted to give the physician the ability to prescribe the treatment as he/she would 
+prescribe in routine daily practice, and then we will capture the specific therapeutic exposures (drugs, doses, timing) received and examine the association between the intervention, treatment, and toxicity.  
+  19 E.11. Timeline and Deliverables: Teams, tasks, and study timeline are summarized in Table 3. We anticipate 
+that the protocol will be IRB approved prior to the start of grant funding. Study accrual will be completed by 
+Year 4 with the final year devoted to follow -up and analyses.  
+ 
+ 
+ 
+E.12. Summary: This study will fill critical gaps in knowledge of how to reduce chemotherapy toxicity in older 
+adults with metastatic cancer. A web-based GA assessment with targeted interventions could help not only 
+reduce risk from chemotherapy but also allow older patients to receive chemotherapy long enough to derive 
+benefit. This multidisciplinary team, with expertise in geriatrics and oncology, has already demonstrated the ability to successfully accrue to multicenter studies of similar magnitude and has a well -developed 
+infrastructure for multi -institutional collaboration through the UR CCOP.  
+20 References 
+ 
+1.
+ Pal SK, Hurria A. Impact of age, sex, and comorbidity on cancer therapy and disease progression. J Clin 
+Oncol. Sep 10 2010;28(26):4086-4093. 
+2. Dale W, Mohile SG, Eldadah BA, et al. Biological, clinical, and psychosocial correlates  at the interface of 
+cancer and aging research. J Natl Cancer Inst. Apr 18  2012;104(8):581-589. 
+3. Rodin MB, Mohile SG. A practical approach to geriatric assessment in oncology. J Clin Oncol. May  10 
+2007;25(14):1936-1944. 
+4. Hurria A, Togawa K, Mohile SG, et al. Predicting chemotherapy toxicity in older adults with cancer: a 
+prospective multicenter study. J Clin Oncol. Sep 1 2011;29(25):3457-3465. 
+5. Cohen HJ, Feussner JR, Weinberger M, et al. A controlled trial of inpatient and outpatient geriatric 
+evaluation and management. N Engl J Med. Mar 21 2002;346(12):905-912. 
+6. Ellis G, Langhorne P. Comprehensive geriatric assessment for older hospital patients. British medical 
+bulletin. 2004;71:45-59. 
+7. Stuck AE, Siu AL, Wieland GD, Adams J, Rubenstein LZ. Comprehensive geriatric assessment: a meta- 
+analysis of controlled trials. Lancet. Oct 23 1993;342(8878):1032-1036. 
+8. Bula CJ, Berod AC, Stuck AE, et al. Effectiveness of preventive in-home geriatric assessment in well functioning, community -dwelling older people: secondary analysis of a randomized trial. J Am Geriatr 
+Soc. Apr 1999;47(4):389-395. 
+9. Rao AV, Hsieh F, Feussner JR, Cohen HJ. Geriatric evaluation and management units in the care of the frail elderly cancer patient. J Gerontol A Biol Sci Med Sci . Jun 2005;60(6):798-803. 
+10. Caillet P, Canoui -Poitrine F, Vouriot J, et al. Comprehensive geriatric assessment in the decision- making 
+process in elderly patients with cancer: ELCAPA study. J Clin Oncol. Sep 20 2011;29(27):3636-3642. 
+11. Ingram SS, Seo PH, Martell RE, et al. Comprehensive assessment of the elderly cancer patient: the 
+feasibility of self-report methodology. J Clin Oncol. Feb 1 2002;20(3):770-775. 
+12. Hurria A, Gupta S, Zauderer M, et al. Developing a cancer -specific geriatric assessment: a feasibility  
+study. Cancer. Nov 1  2005;104(9):1998-2005. 
+13. Mohile S, Dale W, Hurria A. Geriatric oncology research to improve clinical care. Nature reviews. Clinical 
+oncology. Jul 24 2012.  
+14. Hurria A, Mohile SG, Dale W. Research priorities in geriatric oncology: addressing the needs of an aging 
+population. J Natl Compr Canc Netw. Feb 2012;10(2):286-288. 
+15. Hutchins LF, Unger JM, Crowley JJ, Coltman CA, Jr., Albain KS. Underrepresentation of patients 65 
+years of age or older in cancer -treatment trials. N Engl J Med. Dec 30 1999;341(27):2061-2067. 
+16. Murthy VH, Krumholz HM, Gross CP. Participation in cancer clinical trials: race-, sex -, and age-based 
+disparities. Jama. Jun 9 2004;291(22):2720-2726. 
+17. Indurkhya A, Mitra N, Schrag D. Using propensity scores to estimate the cos t-effectiveness of medical 
+therapies. Stat Med. May 15  2006;25(9):1561-1576. 
+18. Yabroff KR, Lamont EB, Mariotto A, et al. Cost of care for elderly cancer patients in the United States. J 
+Natl Cancer Inst. May 7 2008;100(9):630-641. 
+19. Schnipper LE, Smith TJ, Raghavan D, et al. American Society of Clinical Oncology identifies five key 
+opportunities to improve care and reduce costs: the top five list for oncology. J Clin Oncol. May 10 
+2012;30(14):1715-1724. 
+20. Extermann M, Aapro M, Bernabei R, et al. Use of comprehensive geriatric assessment in older cancer 
+patients: recommendations from the task force on CGA of the International Society of Geriatric Oncology 
+(SIOG). Crit Rev Oncol Hematol. Sep 2005;55(3):241-252. 
+21. Balducci L, Cohen HJ, Engstrom PF, et al. Senior adult oncology clinical practice guidelines  in oncology. 
+J Natl Compr Canc Netw. Jul  2005;3(4):572-590. 
+22. Balducci L, Extermann M. Management of cancer in the older person: a practical approach. Oncologist.  
+2000;5(3):224-237. 
+23. Hurria A, Browner IS, Cohen HJ, et al. Senior adult oncology. J Natl Compr Canc Netw. Feb 
+2012;10(2):162-209. 
+24. Pal SK, Katheria V, Hurria A. Evaluating the older patient with cancer: understanding frailty and the geriatric assessment. CA Cancer J Clin. Mar -Apr 2010;60(2):120-132. 
+25. Extermann M, Hurria A. Comprehensive geriatric assessment for older patients with cancer. J Clin Oncol. 
+May 10 2007;25(14):1824-1831. 21 26. Stuck AE, Aronow HU, Steiner A, et al. A trial of annual in-home comprehensive geriatric  assessments 
+for elderly people living in the community. N Engl J Med. Nov 2  1995;333(18):1184-1189. 
+27. Hurria A, Lachs MS, Cohen HJ, Muss HB, Kornblith AB. Geriatric assessment for oncologists: rationale 
+and future directions. Crit Rev Oncol Hematol. Sep  2006;59(3):211 -217. 
+28. Huerta MF, Farber GK, Wilder EL, et al. NIH Roadmap interdisciplinary research initiatives. PLoS Comput Biol. Nov  2005;1(6):e59. 
+29. Hurria A, Cirrincione CT, Muss HB, et al. Implementing a geriatric assessment in cooperative group 
+clinical cancer trial s: CALGB 360401. J Clin Oncol. Apr 1  2011;29(10):1290-1296. 
+30. Mohile SG, Xian Y, Dale W, et al. Association of a cancer diagnosis with vulnerability and frailty  in older 
+Medicare beneficiaries. J Natl Cancer Inst. Sep 2 2009;101(17):1206-1215. 
+31. Mohile SG, Fan L, Reeve E, et al. Association of cancer with geriatric syndromes in older  Medicare 
+beneficiaries. J Clin Oncol. Apr 10  2011;29(11):1458-1464. 
+32. Koroukian SM, Murray P, Madigan E. Comorbidity, disability, and geriatric syndromes in elderly cancer 
+patients receiving home health care. J Clin Oncol. May 20 2006;24(15):2304-2310. 
+33. Repetto L. Greater risks of chemotherapy toxicity in elderly patients with cancer. J Support Oncol. Nov - 
+Dec 2003;1(4 Suppl  2):18-24. 
+34. Jensen SA, Vilmar A, Sorensen JB. Adjuvant chemotherapy in elderly patients (>or=75 yr) completely 
+resected for colon cancer stage III compared to younger patients: toxicity and prognosis. Med On col. 
+2006;23(4):521-531. 
+35. Garg P, Rana F, Gupta R, Buzaianu EM, Guthrie TH. Predictors of toxicity and toxicity profile of adjuvant chemotherapy in elderly breast cancer patients. Breast J. Jul -Aug  2009;15(4):404-408. 
+36. Repetto L, Fratino L, Audisio RA, et al . Comprehensive geriatric assessment adds information to Eastern 
+Cooperative Oncology Group performance status in elderly cancer patients: an Italian Group for Geriatric 
+Oncology Study. J Clin Oncol. Jan 15 2002;20(2):494-502. 
+37. Temel JS, Greer JA, Muzikansk y A, et al. Early palliative care for patients with metastatic non-small - cell 
+lung cancer. N Engl J Med. Aug 19 2010;363(8):733-742. 
+38. Horgan AM, Leighl NB, Coate L, et al. Impact and Feasibility of a Comprehensive Geriatric Assessment 
+in the Oncology Setti ng: A Pilot Study. Am J Clin Oncol. Mar 17 2011. 
+39. Kanesvaran R, Li H, Koo KN, Poon D. Analysis of Prognostic Factors of Comprehensive Geriatric 
+Assessment and Development of a Clinical Scoring System in Elderly Asian Patients With Cancer. J Clin 
+Oncol. Aug 22 2011.  
+40. Hurria A, Cohen HJ, Extermann M. Geriatric Oncology Research in the Cooperative Groups: A Report of 
+a SIOG Special Meeting. J Geriatr Oncol. Jun 1 2010;1(1):40-44. 
+41. Hurria A, Balducci L, Naeim A, et al. Mentoring junior faculty in geriatric oncology: report from the Cancer and Aging Research Group. J Clin Oncol. Jul 1  2008;26(19):3125-3127. 
+42. Woolf SH. The meaning of translational research and why it matters. JAMA. Jan 9 2008;299(2):211-213. 
+43. Basche M, Baron AE, Eckhardt SG, et al. Barriers to enrollment of elderly adults in early -phase cancer 
+clinical trials. J Oncol Pract. Jul  2008;4(4):162-168. 
+44. Karnofsky DA, Ellison RR, Golbey RB. Selection of patients for evaluation of chemotherapeutic 
+procedures in advanced cancer. J Chronic Dis. Mar 1962;15:243-249. 
+45. Zubrod C, Schniderman M, Frei E. Appraisal of methods for the study of chemotherapy of cancer in man. Journal of Chronic Diseases. 1960(11):7-33. 
+46. Albain KS, Crowley JJ, Hutchins L, et al. Predictors of survival following relapse or progression of small 
+cell lung cancer. Southwest Oncology Group Study 8605 report and analysis of recurrent disease data 
+base. Cancer. Aug 15 1993;72(4):1184-1191. 
+47. Albain KS, Crowley JJ, LeBlanc M, Livingston RB. Survival determinants in extensive-stage non -small - 
+cell lung cancer: the Southwest Oncology Group experience. J Clin Oncol. Sep  1991;9(9):1618-1626. 
+48. Hurria A. We need a geriatric assessment for oncologists. Nat Clin Pract Oncol. Dec  2006;3(12):642- 
+643. 
+49. Hurria A. Incorporation of geriatric principles in oncology clinical trials. J Clin Oncol. Dec 1 
+2007;25(34):5350-5351. 
+50. Keating NL, Norredam M, Landrum MB, Huskamp HA, Meara E. Physical and mental health status of 
+older long-term cancer survivors. J Am Ger iatr Soc. Dec  2005;53(12):2145-2152. 
+51. Maione P, Perrone F, Gallo C, et al. Pretreatment quality of life and functional status assessment significantly predict survival of elderly patients with advanced non-small -cell lung cancer receiving 22 chemotherapy: a pr ognostic analysis of the multicenter Italian lung cancer in the elderly study. J Clin 
+Oncol. Oct 1  2005;23(28):6865-6872. 
+52. Stafford RS, Cyr PL. The impact of cancer on the physical function of the elderly and their utilization of 
+health care. Cancer. Nov 15 1997;80(10):1973-1980. 
+53. Audisio RA, Gennari R, Sunouchi K, et al. Preoperative assessment of cancer in elderly patients: a pilot study. Supportive cancer therapy. Oct 1 2003;1(1):55-60. 
+54. Guralnik JM, Simonsick EM, Ferrucci L, et al. A short physical performance battery assessing lower extremity function: association with self-reported disability and prediction of mortality and nursing home 
+admission. J Gerontol. Mar  1994;49(2):M85-94. 
+55. Bylow K, Hemmerich J, Mohile SG, Stadler WM, Sajid S, Dale W. Obese frailty, physical  performance 
+deficits, and falls in older men with biochemical recurrence of prostate cancer on androgen deprivation 
+therapy: a case-control study. Urology. Apr 2011;77(4):934-940. 
+56. Stone CA, Lawlor PG, Savva GM, Bennett K, Kenny RA. Prospective study of falls and risk factors  for 
+falls in adults with advanced cancer. J Clin Oncol. Jun 10 2012;30(17):2128-2133. 
+57. Extermann M, Balducci L, Lyman GH. What threshold for adjuvant therapy in older breast cancer 
+patients? J Clin Oncol. Apr 2000;18(8):1709-1717. 
+58. Frasci G, Lorusso V, Panza N, et al. Gemcitabine plus vinorelbine versus vinorelbine alone in elderly 
+patients with advanced non-small -cell lung cancer. J Clin Oncol. Jul  2000;18(13):2529-2536. 
+59. Firat S, Byhardt RW, Gore E. Comorbidity and Karnofksy performance score are independent prognostic factors in stage III non-small -cell lung cancer: an institutional analysis of patients treated on four RTOG 
+studies. Radiation Therapy Oncology Group. Int J Radiat Oncol Biol Phys. Oct 1 2002;54(2):357-364. 
+60. Piccirillo JF, Tierney RM, Costas I, Grove L, Spitznagel EL, Jr. Prognostic importance of comorbidity in a 
+hospital -based cancer registry. JAMA. May 26 2004;291(20):2441-2447. 
+61. Satariano WA, R agland DR. The effect of comorbidity on 3- year survival of women with primary  breast 
+cancer. Ann Intern Med. Jan 15 1994;120(2):104-110. 
+62. Gronberg BH, Sundstrom S, Kaasa S, et al. Influence of comorbidity on survival, toxicity and health- related quality of life in patients with advanced non-small -cell lung cancer receiving platinum -doublet 
+chemotherapy. Eur J Cancer. Aug  2010;46(12):2225-2234. 
+63. Jung SY, Rosenzweig M, Linkov F, Brufsky A, Weissfeld JL, Sereika SM. Comorbidity as a Mediator of 
+Survival Dispari ty Between Younger and Older Women Diagnosed With Metastatic Breast Cancer. 
+Hypertension. Dec 19 2011. 
+64. Albertsen PC, Moore DF, Shih W, Lin Y, Li H, Lu-Yao GL. Impact of comorbidity on survival among men 
+with localized prostate cancer. J Clin Oncol. Apr 1  2011;29(10):1335-1341. 
+65. Steyerberg EW, Neville BA, Koppert LB, et al. Surgical mortality in patients with esophageal  cancer: 
+development and validation of a simple risk score. J Clin Oncol. Sep 10 2006;24(26):4277-4284. 
+66. Maggiore RJ, Gross CP, Hurria A. Polypharmacy in older adults with cancer. Oncologist. 2010;15(5):507-
+522. 
+67. Landi F, Zuccala G, Gambassi G, et al. Body mass index and mortality among older people living in the 
+community. J Am Geriatr Soc. Sep  1999;47(9):1072-1076. 
+68. Dewys WD, Begg C, Lavin PT, et al. Prognostic effect of weight loss prior to chemotherapy in cancer 
+patients. Eastern Cooperative Onc ology Group. Am J Med. Oct 1980;69(4):491-497. 
+69. Wadley VG, Okonkwo O, Crowe M, Ross -Meadows LA. Mild cognitive impairment and everyday function: 
+evidence of reduced speed in performing instrumental activities of daily living. Am J  Geriatr Psychiatry. 
+May 2008;16(5):416-424. 
+70. Sauvaget C, Yamada M, Fujiwara S, Sasaki H, Mimori Y. Dementia as a predictor of functional disability: 
+a four -year follow -up study. Gerontology. Jul-Aug  2002;48(4):226-233. 
+71. Dodge HH, Kadowaki T, Hayakawa T, Yamakawa M, Sekikawa A, Ueshim a H. Cognitive impairment as a 
+strong predictor of incident disability in specific ADL-IADL tasks among community -dwelling elders: the 
+Azuchi Study. The Gerontologist. Apr  2005;45(2):222-230. 
+72. Hurria A, Li D, Hansen K, et al. Distress in older patients with cancer. J Clin Oncol. Sep 10 
+2009;27(26):4346-4351. 
+73. Seeman TE, Berkman LF, Kohout F, Lacroix A, Glynn R, Blazer D. Intercommunity variations in the 
+association between social ties and mortality in the elderly. A comparative analysis of three communities. Ann Epidemiol. Jul  1993;3(4):325-335. 
+74. Kroenke CH, Kubzansky LD, Schernhammer ES, Holmes MD, Kawachi I. Social networks, social support, 23 and survi val after breast cancer diagnosis. J Clin Oncol. Mar 1  2006;24(7):1105-1111. 
+75. Kornblith AB, Herndon JE, 2nd, Zuckerman E, et al. Social support as a buffer to the psychological 
+impact of stressful life events in women with breast cancer. Cancer. Jan 15 2001;91(2):443-454. 
+76. McCorkle R, Strumpf NE, Nuamah IF, et al. A specialized home care intervention improves  survival 
+among older post-surgical cancer patients. J Am Geriatr Soc. Dec  2000;48(12):1707-1713. 
+77. Goodwin JS, Satish S, Anderson ET, Nattinger AB, Freeman JL. Effect of nurse case management on 
+the treatment of older women with breast cancer. J Am Geriatr Soc. Sep  2003;51(9):1252-1259. 
+78. Seymour MT, Thompson LC, Wasan HS, et al. Chemotherapy options in elderly and frail patients with 
+metastatic colorectal cancer (MRC FOCUS2): an open-label, randomised factorial trial. Lancet. May 21 
+2011;377(9779):1749-1759. 
+79. Andreozzi J, Dale W, Fan L, Mohile SG. Feasibility of Incorporting Geriatric Assessment into Oncol ogy 
+Practice in Real -Time. American Geriatrics Society National Meeting. 2011(D104). 
+80. Guigoz Y. The Mini Nutritional Assessment (MNA) review of the literature --What does it tell us? J Nutr 
+Health Aging. Nov -Dec 2006;10(6):466-485; discussion 485-467. 
+81. Yesavage JA, Brink TL, Rose TL, et al. Development and validation of a geriatric depression screening 
+scale: a preliminary report. J Psychiatr Res.  1982;17(1):37-49. 
+82. Katzman R, Brown T, Fuld P, Peck A, Schechter R, Schimmel H. Validation of a short Orientation- 
+Memory -Concentration Test of cognitive impairment. Am J Psychiatry. Jun 1983;140(6):734-739. 
+83. Guralnik JM, Ferrucci L, Simonsick EM, Salive ME, Wallace RB. Lower -extremity function in persons over 
+the age of 70 years as a predictor of subsequent disability. N Engl J Med. Mar 2 1995;332(9):556- 561. 
+84. Epstein RM, Alper BS, Quill TE. Communicating evidence for participatory decision making. JAMA.  May 
+19 2004;291(19):2359-2366. 
+85. Epstein RM, S treet RL, Jr. Shared mind: communication, decision making, and autonomy in serious 
+illness. Annals of family medicine. Sep -Oct 2011;9(5):454-461. 
+86. Young HN, Bell RA, Epstein RM, Feldman MD, Kravitz RL. Physicians' shared decision-making behaviors in depress ion care. Arch Intern Med. Jul 14 2008;168(13):1404-1408. 
+87. Arora NK, Street RL, Jr., Epstein RM, Butow PN. Facilitating patient-centered cancer communication: a 
+road map. Patient education and counseling. Dec  2009;77(3):319-321. 
+88. Shields CG, Coker CJ, Poulsen SS, et al. Patient-centered communication and prognosis  discussions 
+with cancer patients. Patient education and counseling. Dec  2009;77(3):437-442. 
+89. Dale W, Hemmerich J, Bylow K, Mohile S, Mullaney M, Stadler WM. Patient anxiety about prostate 
+cancer inde pendently predicts early initiation of androgen deprivation therapy for biochemical cancer 
+recurrence in older men: a prospective cohort study. J Clin Oncol. Apr 1  2009;27(10):1557-1563. 
+90. Hurria A. Geriatric assessment in oncology practice. J Am Geriatr Soc . Nov 2009;57 Suppl  2:S246-249. 
+91. Fillenbaum GG, Smyer MA. The development, validity, and reliability of the OARS  multidimensional 
+functional assessment questionnaire. J Gerontol. Jul  1981;36(4):428-434. 
+92. Stewart AL, Kamberg CJ. In: Stewart AL, Ware JE, Jr., eds. Measuring functioning and well -being: The 
+Medical Outcomes Study approach. Durham, North Carolina: Duke University Press; 1992:86-101. 
+93. Karnofsky DA. The bases for cancer chemotherapy. Stanford medical bulletin. Feb 1948;6(1):257-269. 
+94. Yates JW, Chalmer B, McKegney FP. Evaluation of patients with advanced cancer using the Karnofsky 
+performance status. Cancer. Apr 15  1980;45(8):2220-2224. 
+95. Podsiadlo D, Richardson S. The timed "Up & Go": a test of basic functional mobility for frail elderly  
+persons. J Am Geriatr Soc. Feb 1991;39(2):142-148. 
+96. Tinetti ME, Williams CS. The effect of falls and fall injuries on functioning in community -dwelling older 
+persons. J Gerontol A Biol Sci Med Sci. Mar  1998;53(2):M112-119. 
+97. Tinetti ME, Williams CS. Falls, i njuries due to falls, and the risk of admission to a nursing home. N Engl J 
+Med. Oct 30  1997;337(18):1279-1284. 
+98. Kawas C, Karagiozis H, Resau L, Corrada M, Brookmeyer R. Reliability of the Blessed Telephone 
+Information-Memory -Concentration Test. J Geriatr P sychiatry Neurol. Oct  1995;8(4):238-242. 
+99. Landi F, Onder G, Gambassi G, Pedone C, Carbonin P, Bernabei R. Body mass index and mortality 
+among hospitalized patients. Arch Intern Med. Sep 25 2000;160(17):2641-2644. 
+100. Veit CT, Ware JE, Jr. The structure of psychological distress and well -being in general populations. J 
+Consult Clin Psychol. Oct  1983;51(5):730-742. 
+101. McHorney CA, Ware JE, Jr., Rogers W, Raczek AE, Lu JF. The validity and relative precision of MOS 
+short- and long-form health status scales and Dartmouth COOP charts. Results from the Medical 24 Outcomes Study. Med Care. May 1992;30(5 Suppl):MS253-265. 
+102. Sherbourne CD, Stewart AL. The MOS social support survey. Soc Sci Med. 1991;32(6):705-714. 
+103. Maly RC, Frank JC, Marshall GN, DiMatteo MR, Reuben DB. Perceived efficacy in patient-physician 
+interactions (PEPPI): validation of an instrument in older persons. J Am Geriatr Soc. Jul 1998;46(7):889-
+894. 
+104. Mack JW, Nilsson M, Balboni T, et al. Peace, Equanimity, and Acceptance in the Cancer  Experience 
+(PEACE): validation of a scale to assess acceptance and struggle with terminal illness. Cancer. Jun 
+2008;112(11):2509-2517. 
+105. Degner LF, Sloan JA, Venkatesh P. The Control Preferences Scale. The Canadian journal of nursing research = Revue canadienne de recherche en sciences infirmieres. Fall  1997;29(3):21-43. 
+106. Singh JA, Sloan JA, Atherton PJ, et al. Preferred roles in treatment decision making among patients with cancer: a pooled analysis of studies using the Control Preferences Scale. Am J Manag C are. Sep 
+2010;16(9):688-696. 
+107. Elkin EB, Kim SH, Casper ES, Kissane DW, Schrag D. Desire for information and involvement in 
+treatment decisions: elderly cancer patients' preferences and their physicians' perceptions. J Clin Oncol. 
+Nov 20 2007;25(33):5275-5280. 
+108. Davison BJ, Goldenberg SL. Decisional regret and quality of life after participating in medical decision- 
+making for early -stage prostate cancer. BJU Int. Jan 2003;91(1):14-17. 
+109. Stryker JE, Wray RJ, Emmons KM, Winer E, Demetri G. Understanding the decisi ons of cancer  clinical 
+trial participants to enter research studies: factors associated with informed consent, patient satisfaction, and decisional regret. Patient education and counseling. Oct  2006;63(1-2):104-109. 
+110. Brehaut JC, O'Connor AM, Wood TJ, et al. Validation of a decision regret scale. Med Decis  Making. Jul-
+Aug 2003;23(4):281-292. 
+111. Williams GC, Deci EL. The importance of supporting autonomy in medical education. Ann Intern Med. 
+Aug 15 1998;129(4):303-308. 
+112. Williams GC, McGregor HA, Sharp D, et al. Testing a self-determination theory intervention for motivating 
+tobacco cessation: supporting autonomy and competence in a clinical trial. Health Psychol. Jan 
+2006;25(1):91-101. 
+113. Vallerand RJ, O'Connor BP, Blais MR. Life satisfaction of elderly individuals in regular community 
+housing, in low -cost community housing, and high and low self-determination nursing homes. Int J Aging 
+Hum Dev.  1989;28(4):277-283. 
+114. Arora NK, Weaver KE, Clayman ML, Oakley -Girvan I, Potosky AL. Physicians' decision-making style and 
+psychosocial outcomes among cancer survivors. Patient education and counseling. Dec 2009;77(3):404-
+412. 
+115. Lyman GH. Impact of chemotherapy dose intensity on c ancer patient outcomes. J Natl Compr Canc 
+Netw. Jan 2009;7(1):99-108. 
+116. Atkinson A, ed Plots, Transformation, and Regression. Oxford: Oxford University Press; 1985.  
+117. Cook R, Weisberg S, eds. London: Chapman and Hall; 1982. Residuals and influence in Regression.  
+118. Conover W, Iman R. Rank transformations as a bridge between parametric and nonparametric  statistics. 
+American Statistics. 1981;35:124-133. 
+119. Conover W, Iman R. On some alternative procedures using ranks for the analysis of experimental 
+designs. Comm Stati st A. 1976;5:1349-1368. 
+120. Brown H, Prescott R. Applied Mixed Models in Medicine. 2nd edition ed. Edinburgh, UK: John Wiley and 
+Sons, Ltd; 2006. 
+121. Little R, Rubin D. Stastical analysis with missing data. 2nd ed. Hoboken, NJ: Wiley; 2002. 
